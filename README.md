@@ -8,7 +8,7 @@
 | Naufal Syafi` Hakim      | 5027231022 |
 
 
-### Laporan Challange FTP Login dan Surprise
+### Laporan Challange FTP Login dan Surprise (Dibuat oleh : Muhammad Ida Bagus Rafi Habibie)
 
 #### Ringkasan
 File ini berisi data dari paket-paket jaringan yang terekam dalam format teks. Paket-paket ini meliputi berbagai jenis protokol seperti MDNS, SSDP, UDP, dan FTP. Analisis ini akan mengidentifikasi pola-pola komunikasi, peristiwa yang mencurigakan, serta tindakan yang diambil selama sesi jaringan yang terekam.
